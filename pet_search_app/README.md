@@ -1,6 +1,7 @@
 # pet_search_app
 
-A new Flutter project.
+Pet Search App 
+Internship assignment
 
 ## Getting Started
 
