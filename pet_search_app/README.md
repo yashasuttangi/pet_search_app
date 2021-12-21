@@ -1,6 +1,6 @@
-# pet_search_app
+# Pet Search App 
 
-Pet Search App 
+Pet Search App \n
 Internship assignment
 
 ## Getting Started
