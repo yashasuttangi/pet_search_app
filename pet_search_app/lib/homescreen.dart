@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List filteredNames = new List.empty(
       growable: true); // List to store names filtered by search text
   Icon _searchIcon = new Icon(Icons.search);
-  Widget _appBarTitle = new Text('Search Example');
+  Widget _appBarTitle = new Text('My Pets App');
 
   void _getNames() async {
     final response = await dio.get(
