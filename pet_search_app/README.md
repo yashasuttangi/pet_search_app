@@ -1,7 +1,10 @@
 # Pet Search App 
 
-Pet Search App \n
-Internship assignment
+Pet Search App <br />
+Internship assignment. <br />
+
+A simple single screen application to display pets and search pets with name and by age. 
+
 
 ## Getting Started
 
