@@ -1,6 +1,10 @@
-# pet_search_app
+# Pet Search App 
 
-A new Flutter project.
+Pet Search App <br />
+Internship assignment. <br />
+
+A simple single screen application to display pets and search pets with name and by age. 
+
 
 ## Getting Started
 
